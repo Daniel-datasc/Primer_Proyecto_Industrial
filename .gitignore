@@ -1,1 +1,14 @@
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Docker
+.dockerignore
+
+# Sistema
+.DS_Store
+Thumbs.db
